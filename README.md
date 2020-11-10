@@ -3,3 +3,4 @@ Curso de Automating GIS-process oferecido pela Universidade de Helsinki, Finlân
 
 ## Aula 01
 Conhecendo a biblioteca Shapely e seus objetos geométricos (Point, Line, Polygon).
+Exercícios para colocar os conhecimentos adquiridos em prática.
